@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there! 👋 I'm Wandile
 
-<!--
-**wandile007/wandile007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full-Stack Developer | Business Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building web applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 1. **Health++ - Hospital Management System**
+A comprehensive hospital management system built with C#, ASP.NET, React, and SQL Server.
+- 📊 Patient records management
+- 👨‍⚕️ Doctor scheduling
+- 📅 Appointment booking
+- **Repository:** [View Project](https://github.com/wandile007/Hospital--)
+
+## 🛠️ Tech Stack
+
+**Languages:** C#, JavaScript, HTML/CSS, SQL
+
+**Backend:** ASP.NET Framework, Entity Framework
+
+**Frontend:** React JS, Bootstrap 5
+
+**Databases:** SQL Server
+
+**Tools:** Visual Studio, Git, GitHub
+
+
+## 📚 What I'm Learning
+
+- Advanced ASP.NET Core
+- Cloud deployment (Azure)
+- RESTful API design
+- Unit testing
+- AI Automation
+
+## 💼 Professional Goals
+
+- Build scalable web applications
+- Contribute to open-source projects
+- Bridge business analysis and web development
+- Continuously learn new technologies
+
+## 📧 Let's Connect!
+
+- **Email:** wandilespe8@gmail.com
+- **LinkedIn:** www.linkedin.com/in/wandile-ndlovu-38a99a243
+
+---
+
+**"Code is poetry written in logic!"** ✨
+
+*Last updated: 2026*
